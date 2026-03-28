@@ -1,5 +1,5 @@
 # Data-Science-DB-Repositories
-DB Repositories for perform the various data science applications on these data:
+   DB Repositories for perform the various data science applications on these data.
 
 📂 Database Files Repository
 
@@ -18,7 +18,7 @@ To provide version control for data changes over time
 
 📁 Supported File Types
 
-This repository may include:
+ This repository may include:
 
 .csv — Comma-Separated Values files
 
