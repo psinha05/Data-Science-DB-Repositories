@@ -21,8 +21,11 @@ To provide version control for data changes over time
 This repository may include:
 
 .csv — Comma-Separated Values files
+
 .xlsx / .xls — Excel spreadsheets
+
 .db / .sqlite — Database files
+
 Other structured data formats as required
 
 
